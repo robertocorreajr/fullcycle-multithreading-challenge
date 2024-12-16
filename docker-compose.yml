@@ -1,7 +1,0 @@
-version: '3.9'
-services:
-  golang-api-challenge:
-    build: .
-    container_name: golang-api-challenge
-    ports:
-      - "8080:8080"
